@@ -1,4 +1,4 @@
-# MSA_sem2
+# BCE-R: LLC Clusters re-ordering
 
 
 Code implemented over **Bespoke cache enclaves: Fine-grained and scalable isolation from cache side-channels via flexible set-partitioning ** paper. Written By Kumar Mangalam (2022AIM1002) & Harsh Raj (2022CSM1004). 
